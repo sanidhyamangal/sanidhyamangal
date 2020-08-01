@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Sanidhya, currently work on intersection of AI and Web, trying to prophesy using data.
+
+- 👨🏻‍💻 I've been contributing to open source for a while, mostly about some ML model implementation. 
+- ✍🏻 Author of following research articles
+  - [LSTM vs. GRU vs. Bidirectional RNN for script generation](https://arxiv.org/abs/1908.04332) - for scripts using seq-to-seq models  
+  - [LSTM Based Music Generation System](https://arxiv.org/abs/1908.01080) - for generating ballads using shallow LSTM
+- 🌱 I’m currently learning about deep generative models, transformers and kubeflow
+- 📫 Feel to reach out to me on <mangalsanidhya19@gmail.com> for work related queries.
 <!--
 **sanidhyamangal/sanidhyamangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
