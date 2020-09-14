@@ -6,6 +6,7 @@ I'm Sanidhya, currently work on intersection of AI and Web, trying to prophesy u
 - ✍🏻 Author of following research articles
   - [LSTM vs. GRU vs. Bidirectional RNN for script generation](https://arxiv.org/abs/1908.04332) - for scripts using seq-to-seq models  
   - [LSTM Based Music Generation System](https://arxiv.org/abs/1908.01080) - for generating ballads using shallow LSTM
+  - [Convolution Neural Networks for diagnosing colon and lung cancer histopathological images](https://arxiv.org/abs/2009.03878) - for diagnosing colon and lung caancer using histopathological images.
 - 🌱 I’m currently learning about deep generative models, transformers and kubeflow
 - 📫 Feel to reach out to me on <mangalsanidhya19@gmail.com> for work related queries.
 <!--
