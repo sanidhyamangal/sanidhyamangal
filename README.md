@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sanidhya, currently work on intersection of AI and Web, trying to prophesy using data.
+I'm Sanidhya, currently work on intersection of Computer Vision,Web and Bioinformatics, trying to prophesy using data.
 
 - 👨🏻‍💻 I've been contributing to open source for a while, mostly about some ML model implementation. 
 - ✍🏻 Author of following research articles
